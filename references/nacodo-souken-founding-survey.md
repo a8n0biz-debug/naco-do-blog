@@ -8,7 +8,7 @@
 | 調査実施日 | 2026年4月 |
 | 調査対象 | 20〜59歳の未婚男女 16,000人 |
 | 公開日 | 2026年4月24日 |
-| 公開URL（note） | https://note.com/nacodo_souken |
+| 公開URL（note） | https://note.com/nacodo_souken/n/n83b3e7f81ea7 |
 | 引用形式 | ナコード総研調べ（2026年4月、n=16,000）＋本記事URL |
 
 ---

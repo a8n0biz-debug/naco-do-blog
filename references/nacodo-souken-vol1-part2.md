@@ -11,7 +11,7 @@
 | 対象 | 全国の未婚の婚活経験者800名（20歳〜59歳男女） |
 | A群 | 現在婚活している独身者 n=500 |
 | B群 | 婚活をやめた独身者 n=300 |
-| 公開URL（note） | https://note.com/nacodo_souken |
+| 公開URL（note） | https://note.com/nacodo_souken/n/na4a990f7e28d |
 | 引用形式 | 婚活と心身に関する実態調査 2026（ナコード総研調べ）＋本記事URL |
 
 ---

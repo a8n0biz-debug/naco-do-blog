@@ -257,7 +257,7 @@ naco-do（ナコード）の無料面談では、あなたの婚活状況をも�
 | `references/nacodo-souken-founding-survey.md` | ナコード総研創設時調査（n=16,000） | 公開済み・引用可 |
 | `references/nacodo-souken-vol1.md` | 婚活と心身に関する実態調査 2026 Vol.1 第1部 | 公開済み・引用可 |
 | `references/nacodo-souken-vol1-part2.md` | 婚活と心身に関する実態調査 2026 Vol.1 第2部 | 公開済み・引用可 |
-| `references/nacodo-souken-vol2.md` | Vol.2（タイトル未定） | 公開後に記入・それまで引用禁止 |
+| `references/nacodo-souken-vol2-part1.md` | 婚活と幸せな結婚生活に関する実態調査 2026 Vol.2 第1部 | 公開済み・引用可 |
 
 **引用形式**：
 ```

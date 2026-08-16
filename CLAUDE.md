@@ -259,6 +259,7 @@ naco-do（ナコード）の無料面談では、あなたの婚活状況をも�
 | `references/nacodo-souken-vol1-part2.md` | 婚活と心身に関する実態調査 2026 Vol.1 第2部 | 公開済み・引用可 |
 | `references/nacodo-souken-vol2-part1.md` | 婚活と幸せな結婚生活に関する実態調査 2026 Vol.2 第1部 | 公開済み・引用可 |
 | `references/nacodo-souken-vol2-part2.md` | 婚活と幸せな結婚生活に関する実態調査 2026 Vol.2 第2部 | 公開済み・引用可 |
+| `references/nacodo-souken-vol2-part3.md` | 婚活と幸せな結婚生活に関する実態調査 2026 Vol.2 第3部（最終回） | 公開済み・引用可 |
 | `references/marriage-interviews.md` | 成婚者インタビュー記事一覧（全35件・URL＋タイトル＋テーマ別索引） | 体験談引用時に参照 |
 
 **引用形式**：
